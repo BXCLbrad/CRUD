@@ -1,0 +1,6 @@
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.pdb

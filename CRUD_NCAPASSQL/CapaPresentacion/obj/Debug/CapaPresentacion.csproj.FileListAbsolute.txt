@@ -1,0 +1,15 @@
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

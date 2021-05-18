@@ -1,0 +1,9 @@
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\axcas\source\repos\CRUD_NCAPASSQL\CapaNegocio\obj\Debug\CapaNegocio.pdb
